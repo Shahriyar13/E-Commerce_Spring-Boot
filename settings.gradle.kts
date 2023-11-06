@@ -1,1 +1,1 @@
-rootProject.name = "EasyProjectSec"
+rootProject.name = "SpringBootDemo"
